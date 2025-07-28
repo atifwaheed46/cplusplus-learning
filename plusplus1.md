@@ -1,3 +1,4 @@
+# (Preprocessor Directives), interp.. vs compiler vs hybrid baesd languages, namespces, main function, error types 
 # Preprocessor Directives in C++
 
 ## Question
